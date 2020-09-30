@@ -1,3 +1,5 @@
+//recursion
+
 function printString(myString) {
     console.log(myString[0]);
   
